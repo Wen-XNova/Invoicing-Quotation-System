@@ -42,7 +42,7 @@ flowchart TD
 
 ###Backend & Architecture
 <img width="1465" height="794" alt="image" src="https://github.com/user-attachments/assets/50fc35d4-5347-4baa-9292-deb363aec83f" />
-*API Documentation & Security: Interactive Swagger UI showcasing the RESTful endpoints for the Document Controller. Demonstrates the full CRUD capabilities and the custom API Key authorization required to access the backend.*
+*API Documentation & Security: Interactive Swagger UI showcasing the RESTful endpoints for the Document Controller. Demonstrates the full CRUD capabilities.*
 
 ###The React Frontend
 <img width="872" height="849" alt="image" src="https://github.com/user-attachments/assets/406c89f0-3007-48de-82c9-f000a34eb400" />
