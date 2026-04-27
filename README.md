@@ -51,6 +51,7 @@ flowchart TD
 <img width="707" height="784" alt="image" src="https://github.com/user-attachments/assets/b884db29-25da-45bd-8955-0071b3f3be50" />
 *Quotation Generator: A dedicated module for drafting project estimates. Includes specialized fields for expiry dates, discounts, and custom disclaimers, separated cleanly from the invoice logic.*
 
+
 ###Document Generation (PDFs)
 <img width="1200" height="856" alt="image" src="https://github.com/user-attachments/assets/03301dfb-0387-422f-a25b-211ec4ffa878" />
 *Print-Ready Invoices: The final PDF output for invoices. Shows a clean, professional layout ready for client delivery, ensuring the data from the web interface translates perfectly to print.*
